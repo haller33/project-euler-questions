@@ -1,0 +1,11 @@
+*   Problem 222
+
+   What is the length of the shortest pipe, of internal radius 50mm, that can
+   fully contain 21 balls of radii 30mm, 31mm, ..., 50mm?
+
+   Give your answer in micrometres (10^-6 m) rounded to the nearest integer.
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.

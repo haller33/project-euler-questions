@@ -1,0 +1,10 @@
+*   Problem 581
+
+   A number is p-smooth if it has no prime factors larger than p.
+   Let T be the sequence of triangular numbers, ie T(n)=n(n+1)/2.
+   Find the sum of all indices n such that T(n) is 47-smooth.
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.

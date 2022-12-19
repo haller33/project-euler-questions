@@ -1,0 +1,16 @@
+*   Problem 551
+
+   Let a_0, a_1, a_2, ... be an integer sequence defined by:
+
+     * a_0 = 1;
+     * for n ≥ 1, a_n is the sum of the digits of all preceding terms.
+
+   The sequence starts with 1, 1, 2, 4, 8, 16, 23, 28, 38, 49, ...
+   You are given a_10^6 = 31054319.
+
+   Find a_10^15.
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.

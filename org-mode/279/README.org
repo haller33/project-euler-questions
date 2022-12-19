@@ -1,0 +1,9 @@
+*   Problem 279
+
+   How many triangles are there with integral sides, at least one integral
+   angle (measured in degrees), and a perimeter that does not exceed 10^8?
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.

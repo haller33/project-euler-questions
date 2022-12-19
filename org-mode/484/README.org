@@ -1,0 +1,17 @@
+*   Problem 484
+
+   The arithmetic derivative is defined by
+
+     * p' = 1 for any prime p
+     * (ab)' = a'b + ab' for all integers a, b (Leibniz rule)
+
+   For example, 20' = 24.
+
+   Find ∑ gcd(k,k') for 1 < k ≤ 5×10^15.
+
+   Note: gcd(x,y) denotes the greatest common divisor of x and y.
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.

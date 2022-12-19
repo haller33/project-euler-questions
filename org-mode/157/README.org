@@ -1,0 +1,17 @@
+*   Problem 157
+
+   Consider the diophantine equation ^1/_a+^1/_b= ^p/_10^n with a, b, p, n
+   positive integers and a ≤ b.
+   For n=1 this equation has 20 solutions that are listed below:
+
+^1/_1+^1/_1=^20/_10   ^1/_1+^1/_2=^15/_10  ^1/_1+^1/_5=^12/_10  ^1/_1+^1/_10=^11/_10 ^1/_2+^1/_2=^10/_10  
+^1/_2+^1/_5=^7/_10    ^1/_2+^1/_10=^6/_10  ^1/_3+^1/_6=^5/_10   ^1/_3+^1/_15=^4/_10  ^1/_4+^1/_4=^5/_10   
+^1/_4+^1/_20=^3/_10   ^1/_5+^1/_5=^4/_10   ^1/_5+^1/_10=^3/_10  ^1/_6+^1/_30=^2/_10  ^1/_10+^1/_10=^2/_10 
+^1/_11+^1/_110=^1/_10 ^1/_12+^1/_60=^1/_10 ^1/_14+^1/_35=^1/_10 ^1/_15+^1/_30=^1/_10 ^1/_20+^1/_20=^1/_10 
+
+   How many solutions has this equation for 1 ≤ n ≤ 9?
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.

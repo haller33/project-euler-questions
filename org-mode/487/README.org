@@ -1,0 +1,17 @@
+*   Problem 487
+
+   Let f_k(n) be the sum of the k^th powers of the first n positive integers.
+
+   For example, f_2(10) = 1^2 + 2^2 + 3^2 + 4^2 + 5^2 + 6^2 + 7^2 + 8^2 + 9^2
+   + 10^2 = 385.
+
+   Let S_k(n) be the sum of f_k(i) for 1 ≤ i ≤ n. For example, S_4(100) =
+   35375333830.
+
+   What is ∑ (S_10000(10^12) mod p) over all primes p between 2 ⋅ 10^9 and 2
+   ⋅ 10^9 + 2000?
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.

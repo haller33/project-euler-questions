@@ -1,0 +1,12 @@
+*   Problem 432
+
+   Let S(n,m) = ∑φ(n × i) for 1 ≤ i ≤ m. (φ is Euler's totient function)
+   You are given that S(510510,10^6 )= 45480596821125120.
+
+   Find S(510510,10^11).
+   Give the last 9 digits of your answer.
+
+   Project Euler: Copyright Information | Privacy Policy
+
+   The page has been left unattended for too long and that link/button is no
+   longer active. Please refresh the page.
